@@ -14,11 +14,11 @@ Hello Zepp, I want you to make a choice. There's a slow-acting poison coursing t
 
 Listen carefully if you will, there's a __*vision*__
 #### IMF/ (modules)
-1. [-] cowsay.py
-2. [-] rachel.py (py txt styler)
-4. [-] hunt.py (CLI backbone)
-5. [ ] morse.py (morse (en/de)coder) 
-6. [ ] mathe/ (ultimate mathematics module)
+1. [x] cowsay.py
+2. [x] rachel.py (py txt styler)
+3. [x] hunt.py (CLI backbone)
+4. [ ] morse.py (morse (en/de)coder) 
+5. [ ] mathe/ (ultimate mathematics module)
     1. [ ] BASIC.py
     2. [ ] algeb.py
     3. [ ] complex.py
