@@ -3,7 +3,11 @@ import time
 import sys
 import functools
 import random
-from rachel import *
+
+try:
+    from rachel import *
+except ImportError:
+    from .rachel import *
 
 if os.name != "nt":
     """

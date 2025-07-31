@@ -14,30 +14,30 @@ Hello Zepp, I want you to make a choice. There's a slow-acting poison coursing t
 
 Listen carefully if you will, there's a __*vision*__
 #### IMF/ (modules)
-1. [x] cowsay.py
-2. [x] rachel.py (py txt styler)
-3. [x] hunt.py (CLI backbone)
-4. [ ] morse.py (morse (en/de)coder) 
-5. [ ] mathe/ (ultimate mathematics module)
-    1. [ ] BASIC.py
-    2. [ ] algeb.py
-    3. [ ] complex.py
-    4. [ ] trigo.py
-    5. [ ] matrix.py
-    6. [ ] probstat.py (probability & statistics)
-    7. [ ] linear.py (linear algebra)
-    8. [ ] adv.py
-    9. [ ] calculus.py
-    10. [ ] graph.py
+- [x] cowsay.py
+- [x] rachel.py (py txt styler)
+- [x] hunt.py (CLI backbone)
+- [ ] morse.py (morse (en/de)coder) 
+- [ ] mathe/ (ultimate mathematics module)
+    - [ ] BASIC.py
+    - [ ] algeb.py
+    - [ ] complex.py
+    - [ ] trigo.py
+    - [ ] matrix.py
+    - [ ] probstat.py (probability & statistics)
+    - [ ] linear.py (linear algebra)
+    - [ ] adv.py
+    - [ ] calculus.py
+    - [ ] graph.py
 #### echoes/ (main programs)
-1. [ ] CASE.py (case converter)
-2. [ ] ASCII.py (everything ASCII)
-3. [ ] nirvana.py (terminal clone--very simple)
-4. [ ] toLis.py (to do list)
-5. [ ] context.py (convert text--md <-> html, etc...)
-6. [ ] graphite.py (note taking tool... like obsidian)
-7. [ ] quickie.py (QR generator/reader) **GUI**
-8. [ ] lotus.py (code editor)
+- [ ] CASE.py (case converter)
+- [ ] ASCII.py (everything ASCII)
+- [ ] thisMsg.py (mission impossible tribute)
+- [ ] nirvana.py (terminal clone--very simple)
+- [ ] context.py (convert text--md <-> html, etc...)
+- [ ] graphite.py (note taking tool... like obsidian)
+- [ ] quickie.py (QR generator/reader) **GUI**
+- [ ] lotus.py (code editor)
 
 ### DON'T MAKE ME SAY:
 > Most people are so ungrateful to be alive. But not you, not anymore... **GAME OVER**!
