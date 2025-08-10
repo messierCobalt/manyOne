@@ -17,6 +17,7 @@ Listen carefully if you will, there's a __*vision*__
 - [x] cowsay.py
 - [x] rachel.py (py txt styler)
 - [x] hunt.py (CLI backbone)
+- [ ] mooPoint.py (like a cowsay's opinion... it does matter)
 - [ ] morse.py (morse (en/de)coder) 
 - [ ] mathe/ (ultimate mathematics module)
     - [ ] BASIC.py
@@ -30,14 +31,10 @@ Listen carefully if you will, there's a __*vision*__
     - [ ] calculus.py
     - [ ] graph.py
 #### echoes/ (main programs)
-- [ ] CASE.py (case converter)
+- [x] CASE.py (case converter)
 - [ ] ASCII.py (everything ASCII)
-- [ ] thisMsg.py (mission impossible tribute)
 - [ ] nirvana.py (terminal clone--very simple)
 - [ ] context.py (convert text--md <-> html, etc...)
-- [ ] graphite.py (note taking tool... like obsidian)
-- [ ] quickie.py (QR generator/reader) **GUI**
-- [ ] lotus.py (code editor)
 
 ### DON'T MAKE ME SAY:
 > Most people are so ungrateful to be alive. But not you, not anymore... **GAME OVER**!
@@ -51,7 +48,7 @@ Listen carefully if you will, there's a __*vision*__
 ---
 
 ### DIRECTED BY:
-Saw (2004) 720p BR.srt
+Saw (2004) \[720p][BluRay].srt
 
 ### WRITTEN BY:
 messierCobalt--Ray Cullen

@@ -164,9 +164,9 @@ def main() -> None:
             registry[userInput]()
             continue
         
-        if userInput == "test":
+        if userInput.startswith("test"):
             samples = ["in five years time. i might not know you.", "something elemental, something terrifying."] # i'll add more later
-            sample = random.choice(samples)
+            sample = str(userInput[4:].strip()) if len(userInput.strip()) != 4 else random.choice(samples)
 
             for case in [
                 "low", "up", "tit", "cap", "swap", "alt", "cam", "pas",
